@@ -15,10 +15,8 @@
                 "last_name": "Weaver",
                 "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/josephstein/128.jpg"
             } 
-	]
-}
-{
-	"posts":
+	],
+"posts":
 	[
   {
     "userId": 1,
