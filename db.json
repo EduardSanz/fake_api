@@ -1,5 +1,5 @@
 [
-    "casa":
+    {"casa":
     [
         {
             "nombre": "Mi casa",
@@ -34,8 +34,8 @@
             "nombre": "Mi casa",
             "dir": "Mi dir"
         }
-    ],
-    "users": 
+    ]},
+    {"users": 
   [
   {
     "id": 1,
@@ -267,5 +267,5 @@
       "bs": "target end-to-end models"
     }
   }
-]
+]}
 ]
