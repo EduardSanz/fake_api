@@ -1,4 +1,4 @@
-[
+{"personas":[
     {
         "id": 1,
         "email": "janet.weaver@reqres.in",
@@ -7,3 +7,4 @@
         "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/josephstein/128.jpg"
     }
 ]
+}
