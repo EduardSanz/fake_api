@@ -1,4 +1,4 @@
-{
+"personas":[{
     "persona": {
         "id": 1,
         "email": "janet.weaver@reqres.in",
@@ -6,10 +6,4 @@
         "last_name": "Weaver",
         "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/josephstein/128.jpg"
     }
-}
-{
-  "userId": 1,
-  "id": 1,
-  "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-  "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
-}
+}]
