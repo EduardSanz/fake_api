@@ -1,4 +1,11 @@
 {
+    "casa":
+    [
+        {
+            "nombre": "Mi casa",
+            "dir": "Mi dir"
+        }
+    ]
     "users": 
   [
   {
